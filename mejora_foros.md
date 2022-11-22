@@ -8,4 +8,4 @@
 
 ### Foro Semana 14
 
-- Se explicó un un comentario sobre como demostrar que el problema Clique es NP-Hard mediante reducción.
+- Se explicó en un comentario sobre como demostrar que el problema Clique es NP-Hard mediante reducción.
