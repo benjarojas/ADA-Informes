@@ -6,9 +6,15 @@
 - Se explicó en un comentario el porque los algoritmos se comparan en tamaños de problemas muy grandes.
 - Aclaración en un comentario sobre el paradigma de diseño Divide y Vencerás.
 
-### Foro Semana 8
+### Foro Semana 8 (completado)
 
+- Se publica un foro donde se explica como se utiliza la fuerza bruta para resolver el problema de corte de varillas.
 - Se explica en un comentario en que consiste el acercamiento Bottom-Up.
+- Se complementa otro foro, explicando porque la programación dinámica es mas eficiente para el problema de corte de varillas.
+
+### Foro Semana 13
+- Se publica el análisis de la correctitud del algoritmo Bellman-Ford.
+- Se explica en un comentario como Bellman-Ford logra identificar los ciclos negativos.
 
 ### Foro Semana 14 (completado)
 
@@ -22,8 +28,7 @@
 
 ### TODO:
 
-- Semana 7
-- Semana 8 (Publicar, 1 comentario)
-- Semana 9
+- Semana 7 (Publicar, 2 comentarios)
+- Semana 9 (Publicar, 2 comentarios)
 - Semana 12 (2 comentarios)
-- Semana 13
+- Semana 13 (1 comentario)
