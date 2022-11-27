@@ -8,16 +8,17 @@
 
 ### Foro Semana 8
 
-- Se explica en un comentario en que consiste el acercamiento Bottom-Up
+- Se explica en un comentario en que consiste el acercamiento Bottom-Up.
 
 ### Foro Semana 14 (completado)
 
 - Se explicó en un comentario sobre como demostrar que el problema Clique es NP-Hard mediante reducción.
 
-### Foro Semana 15
-- Se aclara en un comentario sobre la Búsqueda Local
-- Se consulta una duda sobre el Algoritmo Graham
-- Se explicó en un comentario el porqué un algoritmo Greedy no es una buena opción para el TSP
+### Foro Semana 15 (completado)
+- Se realizó una publicación donde se propone un algoritmo Greedy para el TSP.
+- Se aclara en un comentario sobre la Búsqueda Local.
+- Se consulta una duda sobre el Algoritmo Graham.
+- Se explicó en un comentario el porqué un algoritmo Greedy no es una buena opción para el TSP.
 
 ### TODO:
 
@@ -26,4 +27,3 @@
 - Semana 9
 - Semana 12 (2 comentarios)
 - Semana 13
-- Semana 15 (Publicar)
