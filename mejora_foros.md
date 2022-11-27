@@ -14,6 +14,11 @@
 
 - Se explicó en un comentario sobre como demostrar que el problema Clique es NP-Hard mediante reducción.
 
+### Foro Semana 15
+- Se aclara en un comentario sobre la Búsqueda Local
+- Se consulta una duda sobre el Algoritmo Graham
+- Se explicó en un comentario el porqué un algoritmo Greedy no es una buena opción para el TSP
+
 ### TODO:
 
 - Semana 7
@@ -21,4 +26,4 @@
 - Semana 9
 - Semana 12 (2 comentarios)
 - Semana 13
-- Semana 15
+- Semana 15 (Publicar)
