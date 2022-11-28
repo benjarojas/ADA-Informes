@@ -24,14 +24,13 @@
 - Se explica la diferencia entre el acercamiento recursivo y el de programación dinámica en un comentario.
 - Aclaración de una duda respecto a las variables de un algoritmo que resuelve el problema LCS.
 
+### Foro Semana 12
+- Se resuelve una duda sobre las aplicaciones de la Conectividad Incremental o Conectividad Dinámica.
+
 ### Foro Semana 13 (completado)
 - Se publica el análisis de la correctitud del algoritmo Bellman-Ford.
 - Se explica en un comentario como Bellman-Ford logra identificar los ciclos negativos.
 - Se complementa otro foro explicando porque se suele utilizar Dijkstra en lugar de Bellman-Ford.
-
-### Foro Semana 12
-
-- Se resuelve una duda sobre las aplicaciones de la Conectividad Incremental o Conectividad Dinámica.
 
 ### Foro Semana 14 (completado)
 
