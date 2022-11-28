@@ -6,10 +6,11 @@
 - Se explicó en un comentario el porque los algoritmos se comparan en tamaños de problemas muy grandes.
 - Aclaración en un comentario sobre el paradigma de diseño Divide y Vencerás.
 
-### Foro Semana 7
+### Foro Semana 7 (completado)
 
-- Se publica un foro con una implementación del algoritmo Randomized-Select
-- Se realiza una consulta sobre el algoritmo Select y su complejidad temporal
+- Se publica un foro con una implementación del algoritmo Randomized-Select.
+- Se realiza una consulta sobre el algoritmo Select y su complejidad temporal.
+- Se complementa otro foro sobre la reducción de problemas y como esta es útil para probar que un problema es NP-Hard.
 
 ### Foro Semana 8 (completado)
 
@@ -39,6 +40,5 @@
 
 ### TODO:
 
-- Semana 7 (1 comentario)
 - Semana 12 (2 comentarios)
 - Semana 13 (1 comentario)
