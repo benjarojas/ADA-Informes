@@ -17,9 +17,11 @@
 - Se explica en un comentario en que consiste el acercamiento Bottom-Up.
 - Se complementa otro foro, explicando porque la programación dinámica es mas eficiente para el problema de corte de varillas.
 
-### Foro Semana 9
+### Foro Semana 9 (completado)
 
 - Se publica un foro donde explicamos el problema de la Subsecuencia Común mas Larga, junto con un algoritmo que lo resuelve.
+- Se explica la diferencia entre el acercamiento recursivo y el de programación dinámica en un comentario.
+- Aclaración de una duda respecto a las variables de un algoritmo que resuelve el problema LCS.
 
 ### Foro Semana 13
 - Se publica el análisis de la correctitud del algoritmo Bellman-Ford.
@@ -38,6 +40,5 @@
 ### TODO:
 
 - Semana 7 (1 comentario)
-- Semana 9 (2 comentarios)
 - Semana 12 (2 comentarios)
 - Semana 13 (1 comentario)
