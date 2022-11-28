@@ -6,11 +6,20 @@
 - Se explicó en un comentario el porque los algoritmos se comparan en tamaños de problemas muy grandes.
 - Aclaración en un comentario sobre el paradigma de diseño Divide y Vencerás.
 
+### Foro Semana 7
+
+- Se publica un foro con una implementación del algoritmo Randomized-Select
+- Se realiza una consulta sobre el algoritmo Select y su complejidad temporal
+
 ### Foro Semana 8 (completado)
 
 - Se publica un foro donde se explica como se utiliza la fuerza bruta para resolver el problema de corte de varillas.
 - Se explica en un comentario en que consiste el acercamiento Bottom-Up.
 - Se complementa otro foro, explicando porque la programación dinámica es mas eficiente para el problema de corte de varillas.
+
+### Semana 9
+
+- Se publica un foro donde explicamos el problema de la Subsecuencia Común mas Larga, junto con un algoritmo que lo resuelve.
 
 ### Foro Semana 13
 - Se publica el análisis de la correctitud del algoritmo Bellman-Ford.
@@ -28,7 +37,7 @@
 
 ### TODO:
 
-- Semana 7 (Publicar, 2 comentarios)
-- Semana 9 (Publicar, 2 comentarios)
+- Semana 7 (1 comentario)
+- Semana 9 (2 comentarios)
 - Semana 12 (2 comentarios)
 - Semana 13 (1 comentario)
