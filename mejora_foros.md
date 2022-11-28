@@ -17,7 +17,7 @@
 - Se explica en un comentario en que consiste el acercamiento Bottom-Up.
 - Se complementa otro foro, explicando porque la programación dinámica es mas eficiente para el problema de corte de varillas.
 
-### Semana 9
+### Foro Semana 9
 
 - Se publica un foro donde explicamos el problema de la Subsecuencia Común mas Larga, junto con un algoritmo que lo resuelve.
 
